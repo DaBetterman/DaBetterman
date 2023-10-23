@@ -1,4 +1,5 @@
-![code](https://github.com/DaBetterman/DaBetterman/assets/132385265/62e10cba-c965-4962-b702-f3969e6157b6)
+![giphy](https://github.com/DaBetterman/DaBetterman/assets/132385265/4f43c7d0-e9f5-4ec8-96be-9c0877fc3cbd)
+
 
 # 💫 About Me:
 🌱 Learning to code and explore tech<br>👨‍💻 New to GitHub and coding world<br>💻 Coding in Python and C programming<br>📚 Seeking knowledge and guidance<br>💬 Open to collaboration and feedback<br>🚀 Eager to start my professional coding journey<br>📝 Documenting my learning process<br>🧰 Building my first projects<br>💡 Turning ideas into code<br>🌟 Excited to be part of the tech community<br>🎯 Setting small coding goals
