@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 Learning to code and explore tech<br>👨‍💻 New to GitHub and coding world<br>💻 Coding in Python and C programming<br>📚 Seeking knowledge and guidance<br>💬 Open to collaboration and feedback<br>🚀 Eager to start my professional coding journey<br>📝 Documenting my learning process<br>🧰 Building my first projects<br>💡 Turning ideas into code<br>🌟 Excited to be part of the tech community<br>🎯 Setting small coding goals
-
+https://imgur.com/J710ZzX
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/1098543907354181702) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ebrahim.rhode.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ebrahim-rhode/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Da_Betterman) 
