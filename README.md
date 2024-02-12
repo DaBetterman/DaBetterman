@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌱 Learning to code and explore tech<br>👨‍💻 New to GitHub and coding world<br>💻 Coding in Python and C programming<br>📚 Seeking knowledge and guidance<br>💬 Open to collaboration and feedback<br>🚀 Eager to start my professional coding journey<br>📝 Documenting my learning process<br>🧰 Building my first projects<br>💡 Turning ideas into code<br>🌟 Excited to be part of the tech community<br>🎯 Setting small coding goals
+🌱 Learning to code and explore tech<br>👨‍💻 Continuous student in the coding world<br>💻 Coding in Python and C programming<br>📚 Forever seeking knowledge and guidance from YODA<br>💬 Open to collaboration and feedback<br>🚀 Eager to Automate everything<br>📝Turning ideas into code<br>🎯 Setting small coding goals
 
 
 
